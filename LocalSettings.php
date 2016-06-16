@@ -29,7 +29,7 @@ $wgMetaNamespace = "Civic_Hall_France";
 $wgScriptPath = "";
 
 ## The protocol and server name to use in fully-qualified URLs
-$wgServer = "http://wiki-civic-hall.herokuapp.com";
+$wgServer = "http://wiki.civichall.fr";
 
 
 ## The URL path to static resources (images, scripts, etc.)
@@ -37,7 +37,7 @@ $wgResourceBasePath = $wgScriptPath;
 
 ## The URL path to the logo.  Make sure you change this from the default,
 ## or else you'll overwrite your logo when you upgrade!
-$wgLogo = "/$wiki-civic-hall/skins/common/images/$civichall.png";
+$wgLogo = "/wiki-civic-hall/skins/common/images/civichall.png";
 
 ## UPO means: this is also a user preference option
 
