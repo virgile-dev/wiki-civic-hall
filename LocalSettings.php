@@ -37,7 +37,7 @@ $wgResourceBasePath = $wgScriptPath;
 
 ## The URL path to the logo.  Make sure you change this from the default,
 ## or else you'll overwrite your logo when you upgrade!
-$wgLogo = "http://i.imgur.com/eQxYq0O.png?1";
+$wgLogo = "/$wiki-civic-hall/skins/common/images/$civichall.png";
 
 ## UPO means: this is also a user preference option
 
